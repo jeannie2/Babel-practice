@@ -1,6 +1,6 @@
 # Babel practice
 
-Practice using Babel, seeing output in dist folder.
+Practice using Babel (main.js file), seeing output in dist folder.
 
 # Usage
 
